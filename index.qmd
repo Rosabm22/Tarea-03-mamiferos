@@ -322,7 +322,8 @@ grafico_bradypus_plotly
 
 ```
 
-#Bibliografia 1. colaboradores de Wikipedia. (2023b). Mapa coroplético. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Mapa_coropl%C3%A9tico
+#Bibliografia 
+1. colaboradores de Wikipedia. (2023b). Mapa coroplético. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Mapa_coropl%C3%A9tico
 
 2.  colaboradores de Wikipedia. (2023). Bradypus variegatus. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Bradypus_variegatus
 
